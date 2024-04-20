@@ -1,6 +1,6 @@
 # Power BI Portfolio Website
 
-Welcome to my Power BI Portfolio Website repository! This project showcases my Power BI dashboards and projects. Previously, I shared my work on Novi Pro, but since they switched to a premium model, I decided to create my own platform to share my work. 
+Welcome to my Power BI Portfolio Website repository! This project showcases my Power BI dashboards and projects. Previously, I shared my work on novyPro, but since they switched to a premium model, I decided to create my own platform to share my work. 
 
 ## Visit the Website
 
@@ -44,7 +44,7 @@ Feedback and contributions are welcome! If you have any ideas or suggestions to 
 
 If you have any questions or want to connect, feel free to reach out:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
-- Email: [Your Email](mailto:vishnukanthvis@example.com)
+[LinkedIn](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
+[Email](mailto:vishnukanthvis@example.com)
 
 Thank you for checking out my project!
