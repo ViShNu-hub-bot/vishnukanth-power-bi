@@ -6,6 +6,9 @@ Welcome to my Power BI Portfolio Website repository! This project showcases my P
 
 Check out the live website here: [https://vishnukanth-power-bi.vercel.app/](https://vishnukanth-power-bi.vercel.app/)
 
+## Preview 
+![Preview](Screenshot%20(179).png)
+
 ## About the Project
 
 This repository contains the code and assets for my Power BI portfolio website, including:
